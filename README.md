@@ -8,7 +8,7 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1_to_26.3-67b96b?style=flat-square)
 ![Loaders](https://img.shields.io/badge/loaders-Fabric_%2F_NeoForge_%2F_Forge-d6b26b?style=flat-square)
 
-[Download](https://github.com/XsoraS/purescale/releases) · [Discord](https://discord.gg/XgH4EpyPD2) · [Video](https://www.youtube.com/watch?v=xIIHwB45ZEw)
+[Download](https://github.com/XsoraS/purescale/releases) Â· [Discord](https://discord.gg/XgH4EpyPD2) Â· [Video](https://www.youtube.com/watch?v=xIIHwB45ZEw)
 
 </div>
 
@@ -43,6 +43,19 @@ Use Java 17 for 1.20.1, Java 21 for 1.21.x, and Java 25 for 26.x. Install one Pu
 4. Restart after the runtime has finished installing.
 
 If you prefer to install it yourself, download the matching runtime ZIP from [Releases](https://github.com/XsoraS/purescale/releases) and extract it into `purescale_natives` inside the game instance. Keep the subfolders in place. [Runtime packages](NATIVE-PACKAGES.md) lists the exact files.
+
+## Download native runtimes
+
+| Runtime | Direct download |
+| --- | --- |
+| DLSS Super Resolution | [Download DLSS SR for Windows x64](https://github.com/XsoraS/purescale/releases/latest/download/purescale-modern-dlss-win64.zip) |
+| DLSS Frame Generation | [Download DLSS SR + FG for Windows x64](https://github.com/XsoraS/purescale/releases/latest/download/purescale-modern-dlss-fg-win64.zip) |
+| FSR 4.1 | [Download FSR 4.1 for Windows x64](https://github.com/XsoraS/purescale/releases/latest/download/purescale-modern-fsr41-win64.zip) |
+| Neural Rendering | [Download the experimental NR runtime for Windows x64](https://github.com/XsoraS/purescale/releases/latest/download/purescale-modern-dlss-nr-win64.zip) |
+
+Extract the chosen ZIP into `purescale_natives` inside your Minecraft instance, preserving its subfolders, then restart. The FG package includes the SR runtime too, so you do not need both ZIPs.
+
+These links use the latest published release. If an asset is missing there, check [all releases](https://github.com/XsoraS/purescale/releases) or use **Get** in-game.
 
 ## Native features
 
