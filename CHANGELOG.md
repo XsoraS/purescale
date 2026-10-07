@@ -6,7 +6,6 @@
 - Limited blur to the rounded panel, set its opacity to 170/255, and softened both scroll edges.
 - Darkened the cards slightly so the sections remain visible.
 - Fixed deferred native hand drawing, lighting and fog on the shared 1.21 rendering path.
-- Fixed the older fullscreen buffer binding on 1.21.8.
 - Kept download percentages, retry support, runtime ZIP validation and previous FPS overlay fixes.
 
 Native features still depend on the GPU, driver, runtime and backend. Neural Rendering remains experimental.
