@@ -23,6 +23,8 @@ Start with Quality and see how it feels. You can spend an afternoon adjusting ev
 | Minecraft | Fabric | NeoForge | Forge |
 | --- | --- | --- | --- |
 | 1.7.10 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.7.10.jar) |
+| 1.8 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.8.jar) |
+| 1.8.9 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.8.9.jar) |
 | 1.20.1 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.20.1.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.20.1.jar) | [Forge](mods/forge/purescale-modern-forge-mc1.20.1-1.2.jar) |
 | 1.21.1 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.21.1.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.21.1.jar) | [Forge](mods/forge/purescale-modern-forge-mc1.21.1-1.2.jar) |
 | 1.21.11 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.21.11.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.21.11.jar) | - |
