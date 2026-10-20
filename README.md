@@ -18,26 +18,6 @@ Modern adds DLSS Super Resolution, DLSS Frame Generation and FSR 4.1 alongside t
 
 Start with Quality and see how it feels. You can spend an afternoon adjusting everything, but picking a mode and getting back to the game is fine too. It helps most when your GPU is doing the heavy lifting, especially at higher resolutions or with shaders.
 
-## Pick your build
-
-| Minecraft | Fabric | NeoForge | Forge |
-| --- | --- | --- | --- |
-| 1.7.10 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.7.10.jar) |
-| 1.8 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.8.jar) |
-| 1.8.9 | - | - | [Forge](mods/forge/purescale-modern-1.2-forge-mc1.8.9.jar) |
-| 1.20.1 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.20.1.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.20.1.jar) | [Forge](mods/forge/purescale-modern-forge-mc1.20.1-1.2.jar) |
-| 1.21.1 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.21.1.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.21.1.jar) | [Forge](mods/forge/purescale-modern-forge-mc1.21.1-1.2.jar) |
-| 1.21.11 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc1.21.11.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc1.21.11.jar) | - |
-| 26.1.x | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc26.1.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc26.1.jar) | - |
-| 26.2 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc26.2.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc26.2.jar) | - |
-| 26.3 | [Fabric](mods/fabric/purescale-modern-1.2-fabric-mc26.3.jar) | [NeoForge](mods/neoforge/purescale-modern-1.2-neoforge-mc26.3.jar) | - |
-
-Fabric needs Fabric API and Sodium. NeoForge needs Sodium on 1.21.1 and newer, and Embeddium on 1.20.1. Forge 1.20.1 also needs Embeddium; Forge 1.21.1 uses the standard renderer.
-
-The 1.20.1 NeoForge build uses Forge-compatible metadata, so download services may identify it as Forge. The separate Forge build is in the Forge column.
-
-Use Java 17 for 1.20.1, Java 21 for 1.21.x, and Java 25 for 26.x. Install one PureScale edition per instance.
-
 ## Install
 
 1. Put the matching JAR in your instance's `mods` folder and add the dependencies above.
